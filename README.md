@@ -19,7 +19,7 @@ I am looking for a 6-month internship starting April 2027.
 
 | Project | Description |
 |---|---|
-| [Airbnb Pricing](https://github.com/henribellamy/airbnb-paris-price-prediction) | Predicting the nightly price of Paris Airbnb listings as soon as they go online |
+| [Airbnb Price Prediction in Paris](https://github.com/henribellamy/airbnb-paris-price-prediction) | Predicting the nightly price of Paris Airbnb listings as soon as they go online |
 | [Learning to Decode](https://github.com/henribellamy/learning-to-decode) | Neural networks that decode as accurately as optimal algorithms, and faster through GPU parallelisation (Safran) |
 ***
 
