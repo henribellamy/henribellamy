@@ -1,6 +1,6 @@
 ## Hi, I'm Henri Bellamy
 
-Data Science engineer from CentraleSupélec (AI track), now pursuing a Master’s in Data Science at Université Évry Paris-Saclay (Finance track).
+Data Science engineer from CentraleSupélec (AI track), now pursuing a Master’s in Data Science at Université Paris-Saclay (Finance track).
 I spent three years as a Data Scientist apprentice at Safran, replacing classical decoding algorithms with deep learning models.
 
 I am looking for a 6-month internship starting April 2027.
