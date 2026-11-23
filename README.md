@@ -34,4 +34,4 @@ I am looking for a 6-month internship starting April 2027.
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/henri-bellamy-232b5b28a/) · [henribellamy@icloud.com](mailto:henribellamy@icloud.com)
+[LinkedIn](https://www.linkedin.com/in/henri-bellamy-232b5b28a/) · [email](mailto:henribellamy@icloud.com)
